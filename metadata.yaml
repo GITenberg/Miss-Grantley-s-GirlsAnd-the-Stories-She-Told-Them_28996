@@ -1,0 +1,33 @@
+_repo: Miss-Grantley-s-GirlsAnd-the-Stories-She-Told-Them_28996
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Archer, Thomas
+    alias: Archer, T. (Thomas)
+    birthdate: 1830
+    deathdate: 1893
+    gutenberg_agent_id: '33631'
+    url: http://www.gutenberg.org/2009/agents/33631
+description: ''
+gutenberg_issued: '2009-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Teacher-student relationships -- Juvenile fiction'
+- !lcsh 'Teachers -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Storytelling -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Miss Grantley's Girls, and the Stories She Told Them
+url: http://www.gutenberg.org/ebooks/28996
